@@ -1,0 +1,41 @@
+Invalid Instruction
+
+concert-this imagine dragons
+
+
+    Venue: Pro Football Hall of Fame
+    Location: Canton, CA
+    Event Date: August 4, 2019
+            
+spotify-this-song radioactive
+
+movie-this troy
+
+
+    Title: Troy
+    Released: 2004
+    IMDB Rating: 7.2
+    Rotten Tomatos Rating: 54%
+    Country: USA, Malta, UK
+    Language: English
+    Plot: An adaptation of Homer's great epic, the film follows the assault on Troy by the united Greek forces and chronicles the fates of the men involved.
+    Actors: Julian Glover, Brian Cox, Nathan Jones, Adoni Maropis
+            
+do-what-it-says
+
+spotify-this-song radioactive
+
+
+    Artist: Imagine Dragons
+    Track: Radioactive
+    Preview: null
+    Album: Night Visions
+            
+do-what-it-says
+
+
+    Artist: Backstreet Boys
+    Track: I Want It That Way
+    Preview: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=792fe686053949e9a88dae446c3eaac8
+    Album: The Hits--Chapter One
+            
